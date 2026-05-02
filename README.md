@@ -26,16 +26,17 @@ Overknow es un motor de búsqueda y asistente conversacional impulsado por Intel
 
 ## 📸 Capturas de Pantalla
 
-*(Reemplaza estos enlaces con las rutas de tus imágenes)*
 
-![Interfaz Principal](ruta/a/tu/captura_interfaz.png)
 > *Vista de la interfaz principal de chat interactuando con un documento.*
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/37937857-fe99-4bd5-8bcc-60b393a13066" />
 
-![Gestor de Carpetas](ruta/a/tu/captura_sidebar.png)
+
 > *Panel lateral para la carga de PDFs y selección dinámica del contexto.*
+<img width="372" height="1005" alt="image" src="https://github.com/user-attachments/assets/ade53a91-108a-4653-9a18-1f2beac8d1ce" />
 
-![Trazabilidad RAG](ruta/a/tu/captura_fuentes.png)
+
 > *Visualización de los fragmentos recuperados por ChromaDB para generar la respuesta.*
+<img width="1348" height="707" alt="image" src="https://github.com/user-attachments/assets/a70738f2-718b-4e03-a16e-57b599aa312d" />
 
 ---
 
