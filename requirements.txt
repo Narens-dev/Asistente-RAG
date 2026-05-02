@@ -1,0 +1,26 @@
+# Framework Core RAG
+langchain
+langchain-community
+
+# Integración con Google Gemini (Embeddings y LLM)
+langchain-google-genai
+
+# Base de Datos Vectorial
+chromadb
+langchain-chroma
+
+# Procesamiento de Documentos
+pypdf
+
+# Variables de entorno (API Keys)
+python-dotenv
+
+# Interfaz de Usuario Web
+streamlit
+
+# Opcionales (Requeridos si vas a usar RAGAS para evaluar el modelo después)
+ragas
+scikit-learn
+matplotlib
+
+tenacity
